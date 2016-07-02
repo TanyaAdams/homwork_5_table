@@ -1,0 +1,41 @@
+﻿/* ==========================================================================
+	Global Styles
+==========================================================================*/
+* {box-sizing: border-box;}
+body {
+	font-family: 'Philosopher', Arial, sans-serif;
+	}
+/* ==========================================================================
+Content cellspacing="7"
+========================================================================== */
+table {
+	height: 540px;
+	width: 500px;
+	border: none;
+	background: url(../img/333.png);
+	background-size: cover;
+    }
+tr { 
+	background: white;
+	}
+.bottom {
+	border: 2px solid white;
+	} 
+.yellow {
+	background: yellow;
+	}
+.red {
+	background: red;
+	}
+.black {
+	 background: black ;
+	 }
+.blue {
+	background: blue;
+	}
+.tt{
+	width:105%;
+	height: 6px;
+	margin: 0 -3px;
+	background: black;
+	}
